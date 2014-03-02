@@ -5,7 +5,8 @@ Question 2 - Just a little feedback for us
 '''
 Question 2a: How long did this assignment take you?
 '''
-time_in_minutes = 0 
+time_in_minutes = 150
+# btw I accidenally typed 480 minutes in for the last pset. Don't know why I did that, it was more like 200 - 240.
 
 '''
 Question 2b: any feedback for us?
