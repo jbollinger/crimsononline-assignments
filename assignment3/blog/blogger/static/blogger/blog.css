@@ -1,0 +1,8 @@
+<style>
+head {background-color: red;}
+body {background-color: gray;}
+a:link {background-color:#B2FF99;}    /* unvisited link */
+a:visited {background-color:green;} /* visited link */
+a:hover {background-color:#FF704D;}   /* mouse over link */
+a:active {background-color:#FF704D;}  /* selected link */
+</style>

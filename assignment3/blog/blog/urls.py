@@ -23,6 +23,12 @@ urlpatterns = patterns('blogger.views',
     # Page that handles data sent by /posts/create
     url(r'^posts/create/submit/$', 'save_post'),
 
+    # Add an author
+    url(r'^authors/create/$', 'add'),
+
+    # Page that handles data sent by /authors/create
+    url(r'^authors/create/submit/$', 'save_author'),
+
     # View all authors
     url(r'^authors/$', 'all_authors'),
 
